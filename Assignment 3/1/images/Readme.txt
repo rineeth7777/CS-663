@@ -1,0 +1,1 @@
+Everything mentioned in html file. Please refer that for images.
